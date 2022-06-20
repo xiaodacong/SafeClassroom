@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/drawable-v24/green_border.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/drawable-v24/ic_baseline_camera_front_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/drawable-v24/ic_baseline_camera_rear_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/drawable-v24/red_border.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/layout/activity_facemask.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/layout/activity_facemask2.xml" value="0.2015625" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/layout/activity_function_choose2.xml" value="0.30932971014492755" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/layout/activity_qr_code.xml" value="0.30932971014492755" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/layout/activity_qrcode.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2328125" />
+        <entry key="..\:/Users/cxd/AndroidStudioProjects/SafeCampus3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
